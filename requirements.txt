@@ -1,3 +1,7 @@
-# Add your required packages here
-# Example:
-# requests==2.25.1
+# List of dependencies for Crypto Trading Automated Bot
+requests
+pandas
+numpy
+scipy
+matplotlib
+ccxt
