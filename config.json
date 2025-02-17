@@ -1,8 +1,11 @@
+
 {
   "setting1": "value1",
   "setting2": "value2",
   "setting3": {
     "subsetting1": "subvalue1",
     "subsetting2": "subvalue2"
-  }
+  },
+  "api_key": "bg_294c56db85fc632394aa3c71482b8ed8",
+  "secret_key": "156bea90e072b09e75bdaf711452563d5da42824aba59ac09db01047f7a3b3ec"
 }
