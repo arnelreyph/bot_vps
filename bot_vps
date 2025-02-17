@@ -1,3 +1,0 @@
-git add config.json bot.py requirements.txt
-git commit -m "Add config.json, bot.py, and requirements.txt"
-git push origin main
